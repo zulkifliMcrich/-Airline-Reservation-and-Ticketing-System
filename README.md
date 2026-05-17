@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Developed by <strong>Omnira</strong> — Mindanao State University, College of Computer Studies
+  Developed by <strong>Omnira</strong> — Mindanao State University, College of Information and Computing Sciences
 </p>
 
 ---
