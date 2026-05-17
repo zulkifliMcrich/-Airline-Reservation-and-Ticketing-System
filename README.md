@@ -115,7 +115,7 @@ Documentation adheres to **IEEE 29148** and **IEEE 830** standards.
 | Junnel Francis S. Jonson | Frontend Developer |
 | Mohammad Hosni U. Palantig | Backend Developer |
 | Aliyah M. Salmorin | QA Tester / UI-UX Designer |
-| Ilham O. Gamal | Member |
+
 
 ---
 
