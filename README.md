@@ -130,5 +130,5 @@ Documentation adheres to **IEEE 29148** and **IEEE 830** standards.
 ---
 
 <p align="center">
-  Mindanao State University — College of Computer Studies | CCC181 | November 2025
+  Mindanao State University — College of Information and Computing Sciences | CCC181 | November 2025
 </p>
